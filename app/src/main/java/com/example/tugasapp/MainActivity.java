@@ -102,10 +102,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void updateLabel(){
-        String myFormat = "dd/MM/yyyy"; //In which you need put here
+        String myFormat = "dd/MM/yyyy";
         SimpleDateFormat sdf = new SimpleDateFormat(myFormat, Locale.US);
 
-        // edittext.setText(sdf.format(myCalendar.getTime()));
         tglLahir.setText(sdf.format(myCalendar.getTime()));
     }
 
