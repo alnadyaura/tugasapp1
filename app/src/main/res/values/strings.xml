@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">tugasApp</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Nama</string>
+    <string name="ps">Alamat</string>
+    <string name="no">No Telpon</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Ini Tampilan Hasil</string>
+    <string name="input_pass">Masukan Password</string>
+    <string name="input_username">Masukan Nama</string>
+    <string name="input_NoTelp">Masukan No Telpon</string>
+    <string name="namaDepan">Nama Depan</string>
+    <string name="namaBelakang">Nama Belakang</string>
+    <string name="alamat">Alamat</string>
+    <string name="tglL">Tanggal Lahir</string>
+    <string name="TL">Tempat Lahir</string>
+    <string name="Laki">Laki-laki</string>
+    <string name="Perempuan">Perempuan</string>
+    <string name="Islam">Islam</string>
+    <string name="Kristen">Kristen</string>
+    <string name="Aliran">Aliran Kepercayaan</string>
+    <string name="Konghucu">Konghucu</string>
+    <string name="Budha">Buddha</string>
+    <string name="Hindu">Hindu</string>
+    <string name="Katolik">Katolik</string>
+    <string name="mail">Email</string>
+    <string name="pass2">Masukan Password Kembali</string>
+    <string name="kembali">Kembali</string>
+    <string name="Daftar">Daftar</string>
+    <string name="dialog_message">konfirmasi</string>
+    <string name="dialog_title">Konfirmasi</string>
+</resources>
